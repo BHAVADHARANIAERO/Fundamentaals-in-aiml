@@ -1,1 +1,0 @@
-# Fundamentaals-in-aiml
